@@ -1,0 +1,25 @@
+{
+  "name": "mern-crash-course",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000u\u0000l\u0000l\u0000_\u0000s\u0000t\u0000a\u0000c\u0000k\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loop-hack/Full_stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loop-hack/Full_stack/issues"
+  },
+  "homepage": "https://github.com/loop-hack/Full_stack#readme",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2"
+  }
+}
